@@ -6,9 +6,10 @@ function Header() {
         <F.Container>
         <F.Content>
         <button type="button"><Link to="/">HOME</Link></button>
-        <button type="button"><Link to="/work">WORK</Link></button>
         <button type="button"><Link to="/about">ABOUT</Link></button>
         <button type="button"><Link to="/repository">REPOSITORY</Link></button>
+        <button type="button"><Link to="/work">WORK</Link></button>
+        
         </F.Content>
         </F.Container>
     )
