@@ -16,12 +16,15 @@ export const Content = styled.div`
     alignItems: center;
     justify-content: center;
     margin-top: 50px;
-
+    @media only screen and (max-width: 705px) {
+        *{
+            padding: 0px 30px;
+        }
+    }
 `
 export const Work = styled.div`
    
-  
-    height: 100%;
+    
     overflow: auto;
     h2{
         color : white;
@@ -33,5 +36,9 @@ export const Work = styled.div`
     }
     li{
       color : white;
+    }
+
+    @media only screen and (max-width: 705px) {
+        
     }
 `
