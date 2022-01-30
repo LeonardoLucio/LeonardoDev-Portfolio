@@ -7,7 +7,7 @@ import Work from '../src/views/Work/Index'
 import About from '../src/views/About/index'
     function Router () {
         return (
-            <BrowserRouter basename={process.env.PUBLIC_URL}>
+            <BrowserRouter>
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="work" element={<Work />} />
