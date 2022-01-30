@@ -31,5 +31,10 @@ export const Content = styled.div`
             font-size: 20px;
             font-weight: bold;
         }
+        @media only screen and (max-width: 705px){
+            a{
+                font-size: 15px;
+            }
+        }
     }
 `

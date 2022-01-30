@@ -19,4 +19,10 @@ export const Content = styled.div`
         font-size: 3.0em;
         color: white;
     }
+    @media only screen and (max-width: 705px) {
+        svg{
+            padding: 0px 10px;
+            font-size: 2.0em;
+        }
+    }
 `

@@ -22,7 +22,7 @@ export const Content = styled.div`
   
     @media only screen and (max-width: 705px) {
         p{
-            font-size: 25px;
+            font-size: 20px;
         }
     }
 `

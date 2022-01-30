@@ -36,8 +36,8 @@ export const Image = styled.div`
     }
     @media only screen and (max-width: 705px) {
         img{
-            width: 160px;
-            height: 160px;
+            width: 140px;
+            height: 140px;
         }
     }
 `
