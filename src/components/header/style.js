@@ -9,7 +9,7 @@ export const Container = styled.div`
 export const Content = styled.div`
     width: 100%;
     height: 100%;
-    background:rgba(235, 231, 231, 0.1) ;
+   
     display: flex;
     alignItems: center;
     justify-content: center;
@@ -19,7 +19,7 @@ export const Content = styled.div`
         background: none;
         border: none;
 
-        padding: 0px 25px;
+        padding: 0px 15px;
 
         &:hover{
             opacity: 0.5;

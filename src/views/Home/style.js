@@ -11,7 +11,7 @@ export const Container = styled.div`
 export const Content = styled.div`
     width: 100%;
     height: 80%;
-    background:rgba(235, 231, 231, 0.1) ;
+    
     display: flex;
     alignItems: center;
     justify-content: center;
