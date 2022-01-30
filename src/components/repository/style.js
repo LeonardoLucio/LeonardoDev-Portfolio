@@ -13,17 +13,28 @@ export const Content = styled.div`
     alignItems: center;
     justify-content: center;
 
-    p {
-        width: 80%;
+
+`
+
+export const Repository = styled.div`
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    
+    overflow: auto;
+
+    li{
         color: white;
-        font-size: 30px;
-        text-align: center;
-        font-weight: bold;
-    }
-  
-    @media only screen and (max-width: 705px) {
-        p{
-            font-size: 20px;
+        &:hover{
+            background:rgba(235, 231, 231, 0.2); 
         }
+    }
+    h3 {
+        font-size: 30px;
+        display: flex;
+    }
+    svg{
+        font-size: 1.5em;
+        color: black;
     }
 `

@@ -5,6 +5,7 @@ import {
 import Home from '../src/views/Home/index'
 import Work from '../src/views/Work/Index'
 import About from '../src/views/About/index'
+import Repository from "./views/Repository";
     function Router () {
         return (
             <BrowserRouter>
@@ -12,6 +13,7 @@ import About from '../src/views/About/index'
               <Route path="/" element={<Home />} />
               <Route path="work" element={<Work />} />
               <Route path="about" element={<About />} />
+              <Route path="repository" element={<Repository />} />
             </Routes>
           </BrowserRouter>
 
