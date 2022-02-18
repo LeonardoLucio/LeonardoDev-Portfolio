@@ -7,7 +7,6 @@ function Stacks() {
         <F.Container>
         <F.Content>
         <FaReact />
-        <FaNodeJs />
         <FaNode />
         <FaVuejs />
         <SiTypescript />
