@@ -9,7 +9,7 @@ function Work() {
         <F.Work>
 
         <h2>Técnico de Operação e Serviço (N2 - INPE/CACHOEIRA PAULISTA)</h2>  
-        <h3>CENTRAL IT - Tecnologia em Negócios</h3>
+        <h3>CENTRAL IT - Tecnologia em Negócios | 03/2022 até o momento</h3>
         <ul>
         <li>Criação de Scripts para automação de processos( ShellScript, JS, Python )</li>
         <li> Manutenção e formatação de computadores e notebooks</li>
@@ -25,7 +25,7 @@ function Work() {
         </ul>
         {/* /////////////////////////////////////////////////////////*/}
         <h2>Técnico de Suporte</h2>
-        <h3>Debian Signal Comunicação Multimidia - DBNET - Provedora de internet | 06/2021 até o momento</h3>    
+        <h3>Debian Signal Comunicação Multimidia - DBNET - Provedora de internet | 06/2021 ~ 03/2022</h3>    
         <ul>
         <li>Configurações de antenas em modo bridge, station e access point.</li>
         <li>Criação e manipulação de Servidor FTP para backups diarios.</li>
