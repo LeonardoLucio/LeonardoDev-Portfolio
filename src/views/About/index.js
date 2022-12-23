@@ -8,7 +8,7 @@ function About() {
         <Header />
         <F.Content>
        <F.About>
-        <p>Atualmente estou cursando 10 º Semestre de Engenharia da Computação na UNISAL/campus Lorena-SP e atuo como Técnico de suporte na empresa DBNET, Formação Técnico de informatica na ETEC - Prof. Marcos Uchôas dos Santos Penchel, possuo experiência intermediaria em relação a Manutenção de computadores e Redes em geral, Facilidade com trabalhos em equipe e atualmente sou estudante de programação</p>
+        <p>Atualmente estou cursando 10 º Semestre de Engenharia da Computação na UNISAL/campus Lorena-SP e atuo como Técnico de Operação e Serviço Presencial na empresa CENTRAL IT, Formação Técnico de informatica na ETEC - Prof. Marcos Uchôas dos Santos Penchel, possuo experiência intermediaria em relação a Manutenção de computadores e Redes em geral, Facilidade com trabalhos em equipe</p>
        </F.About>
        <F.Stacks>
            <F.Title>
