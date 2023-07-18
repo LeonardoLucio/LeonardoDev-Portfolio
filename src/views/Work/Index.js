@@ -8,8 +8,8 @@ function Work() {
         <F.Content>
         <F.Work>
 
-        <h2>Técnico de Operação e Serviço (N2 - INPE/CACHOEIRA PAULISTA)</h2>  
-        <h3>CENTRAL IT - Tecnologia em Negócios | 03/2022 até o momento</h3>
+        <h2>Técnico de Suporte (INPE/CACHOEIRA PAULISTA)</h2>  
+        <h3>DATAINFO - Soluções em TI | 03/2023 até o momento</h3>
         <ul>
         <li>Criação de Scripts para automação de processos( ShellScript, JS, Python )</li>
         <li> Manutenção e formatação de computadores e notebooks</li>
@@ -20,7 +20,21 @@ function Work() {
         <li>Geração de relatórios de qualidade </li>
         <li> Cabeamento estruturado em datacenter </li>
         <li>Auxílio na utilização de VPN com OPENVPN.  </li>
+        <li>Manutenção/configuração de Sistemas Linux (Ubunt, Debian, mint) </li>
+        </ul>
+        {/* /////////////////////////////////////////////////////////*/}
+        <h2>Técnico de Operação e Serviço (N2 - INPE/CACHOEIRA PAULISTA)</h2>  
+        <h3>CENTRAL IT - Tecnologia em Negócios | 03/2022 ~ 03/2023</h3>
+        <ul>
+        <li>Criação de Scripts para automação de processos( ShellScript, JS, Python )</li>
+        <li> Manutenção e formatação de computadores e notebooks</li>
+        <li>Mapeamento de impressoras através da rede. </li>
+        <li>Instalação e remoção de servidores no datacenter.</li>
+        <li>Configuração de rede 802.1X. </li>
+        <li>Instalação e configuração de Switchs, VOIP’s e Acess Point CISCO. </li>
+        <li>Geração de relatórios de qualidade </li>
         <li> Cabeamento estruturado em datacenter </li>
+        <li>Auxílio na utilização de VPN com OPENVPN.  </li>
         <li>Manutenção/configuração de Sistemas Linux (Ubunt, Debian, mint) </li>
         </ul>
         {/* /////////////////////////////////////////////////////////*/}
@@ -45,7 +59,7 @@ function Work() {
         <li> Manutenção de infraestrutura de rede</li>
         <li>Personalização de imagens Windows</li>
         <li>Backup e recuperação de dados</li>
-        <li>Criação e manipulação de maquinas virtuais através do Citrix XenServer</li>
+        <li>Manutenção/configuração de Sistemas Linux (Ubunt e Debian)</li>
         <li> Suporte a usuários nível help-desk</li>
         </ul>
     
