@@ -10,7 +10,7 @@ function Home() {
         <Header />
         <F.Content>
         <F.Image>
-        <img src="https://github.com/LeonardoLucio.png"></img>
+        <img src="https://avatars.githubusercontent.com/u/73317150?v=4"></img>
         </F.Image>
         <F.Bio>
         <Description />  

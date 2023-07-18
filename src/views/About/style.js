@@ -33,6 +33,10 @@ export const About = styled.div`
         font-size: 20px;
         text-align: center; 
     }
+    @media only screen and (max-width: 705px){
+        p{
+            font-size: 15px;
+        }
 `
 
 export const Stacks = styled.div`

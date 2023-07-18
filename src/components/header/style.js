@@ -33,7 +33,7 @@ export const Content = styled.div`
         }
         @media only screen and (max-width: 705px){
             a{
-                font-size: 15px;
+                font-size: 12px;
             }
         }
     }
